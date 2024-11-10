@@ -1,0 +1,86 @@
+{
+    "resumes\\Dhairya Arora": {
+        "questions": [
+            {
+                "main_question": "Given a large dataset, how would you approach designing a scalable backend system to handle data storage, retrieval, and processing efficiently?",
+                "follow": [
+                    "What database technologies are you familiar with and how would you choose the best fit for this scenario?",
+                    "How would you ensure data integrity and consistency across multiple users accessing the system concurrently?",
+                    "Can you describe your experience with implementing caching mechanisms to optimize data retrieval speed?"
+                ]
+            },
+            {
+                "main_question": "Describe your experience with REST APIs and how you would design an API endpoint for a specific data retrieval task.",
+                "follow": [
+                    "What are some best practices you follow when designing APIs for scalability and maintainability?",
+                    "How would you handle authentication and authorization for API access?",
+                    "Can you provide an example of an API endpoint you've designed and implemented previously?"
+                ]
+            },
+            {
+                "main_question": "You're developing a system that requires real-time data processing. How would you handle the challenges of ensuring low latency and high throughput?",
+                "follow": [
+                    "What technologies or frameworks have you used for real-time data processing?",
+                    "How would you monitor system performance and identify potential bottlenecks?",
+                    "Can you describe your experience with asynchronous programming paradigms like asyncio or multiprocessing?"
+                ]
+            },
+            {
+                "main_question": "Explain your approach to unit testing and integration testing for backend systems.",
+                "follow": [
+                    "What testing frameworks are you familiar with and why?",
+                    "Can you describe a specific example of a unit test you've written for a backend function?",
+                    "How do you ensure that your tests cover all critical paths and edge cases?"
+                ]
+            },
+            {
+                "main_question": "How do you stay updated with the latest trends and advancements in backend development?",
+                "follow": [
+                    "What are some resources you regularly refer to for learning and staying informed?",
+                    "Can you share an example of a recent technological development in backend development that you find particularly interesting?",
+                    "How do you incorporate new technologies and best practices into your existing projects?"
+                ]
+            }
+        ]
+    },
+    "resumes\\Yash Khattar": {
+        "questions": [
+            {
+                "main_question": "You mentioned experience with Python and databases. Can you describe a project where you designed and implemented a scalable backend system using Python and a database of your choice?",
+                "follow": [
+                    "What were the key considerations you took into account when designing the system for scalability?",
+                    "How did you ensure data integrity and consistency in your database design?",
+                    "Can you elaborate on any specific challenges you faced during development and how you overcame them?"
+                ]
+            },
+            {
+                "main_question": "Your resume highlights experience with various database technologies. How would you choose between using MongoDB, MySQL, or PostgreSQL for a new project, considering factors like data structure, query patterns, and scalability requirements?",
+                "follow": [
+                    "Can you provide examples of scenarios where each database would be a suitable choice?",
+                    "What are your thoughts on the trade-offs between using a document-based database like MongoDB and a relational database like MySQL or PostgreSQL?"
+                ]
+            },
+            {
+                "main_question": "You've contributed to open-source projects like ModularUI. Can you walk me through your development process for this project, including your approach to version control, testing, and collaboration?",
+                "follow": [
+                    "How do you ensure the maintainability and extensibility of your open-source contributions?",
+                    "What tools and strategies do you use for managing bug reports and feature requests?"
+                ]
+            },
+            {
+                "main_question": "Your experience with Flutter suggests a strong understanding of mobile app development. How would you approach designing and developing a new mobile application that requires efficient real-time data synchronization?",
+                "follow": [
+                    "What technologies or frameworks would you consider using to achieve real-time data synchronization?",
+                    "How would you handle potential network latency issues and ensure a smooth user experience?"
+                ]
+            },
+            {
+                "main_question": "Based on your experience with Node.js and Express.js, how would you design a RESTful API for a backend service that needs to handle a high volume of requests?",
+                "follow": [
+                    "What strategies would you implement to ensure the API's performance and scalability under load?",
+                    "How would you approach authentication and authorization for your API endpoints?"
+                ]
+            }
+        ]
+    }
+}
